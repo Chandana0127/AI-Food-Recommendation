@@ -1,0 +1,18 @@
+# Ignore virtual environment
+env/
+
+# Ignore compiled files
+*.pyc
+__pycache__/
+
+# Ignore large library files
+*.so
+*.dylib
+*.dll
+
+# Ignore Jupyter Notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+
