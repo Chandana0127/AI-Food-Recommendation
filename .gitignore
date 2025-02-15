@@ -19,3 +19,8 @@ __pycache__/
 env/
 *.dylib
 *.so
+
+env/
+*.dylib
+*.so
+
