@@ -24,3 +24,13 @@ env/
 *.dylib
 *.so
 
+# Ignore virtual environment
+env/
+venv/
+
+# Ignore large TensorFlow and PyTorch libraries
+*.dylib
+*.so
+*.pkl
+*.h5
+*.tflite
